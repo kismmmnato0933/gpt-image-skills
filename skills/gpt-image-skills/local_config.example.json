@@ -1,0 +1,5 @@
+{
+  "base_url": "https://your-gateway.example/v1",
+  "api_key": "YOUR_API_KEY",
+  "model": "gpt-image-2"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Images 绘图"
+  short_description: "配置自定义图片网关，使用 GPT Image 2 生成或编辑图片并保存到本地"
+  default_prompt: "使用 $gpt-images 根据我的描述生成或编辑图片，并保存到指定位置。"
